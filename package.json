@@ -9,6 +9,12 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "dayjs": "^1.10.8",
+    "dotenv": "^16.0.0",
+    "firebase": "^9.6.8",
+    "firebase-tools": "^10.2.2",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2",
     "vue": "^3.2.13"
   },
   "devDependencies": {
@@ -34,7 +40,10 @@
     "parserOptions": {
       "parser": "@babel/eslint-parser"
     },
-    "rules": {}
+    "rules": {
+      "no-unused-vars": "off",
+      "vue/multi-word-component-names": "off"
+    }
   },
   "browserslist": [
     "> 1%",
