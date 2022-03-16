@@ -24,4 +24,6 @@ pnpm-debug.log*
 *.sln
 *.sw?
 
-.*
+.github
+
+.firebase
