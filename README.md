@@ -1,5 +1,8 @@
 # vue-chat
 
+https://raw.github.com/wiki/daichipyon/vue-practice/vue-chat.gif
+
+
 ## Project setup
 ```
 yarn install
