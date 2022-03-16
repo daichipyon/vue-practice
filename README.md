@@ -1,6 +1,6 @@
 # vue-chat
 
-![demo](https://raw.github.com/wiki/daichipyon/vue-practice/vue-chat.gif)
+![demo](https://github.com/daichipyon/vue-practice/blob/eb7e9450f4a482376273eafbed18d392c4f2bc66/vue-chat.gif)
 
 
 ## Project setup
